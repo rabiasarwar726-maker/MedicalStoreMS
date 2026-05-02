@@ -1,5 +1,4 @@
 # MediCare — Medical Store Management System
-### Author: Amina Yousaf | 2022-ag-9156 | University of Agriculture, Faisalabad
 
 ---
 
